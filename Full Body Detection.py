@@ -1,4 +1,4 @@
-# P7: Full Body Detection with OpenCV and MediaPipe
+# P6: Full Body Detection with OpenCV and MediaPipe
 
 #import libraries
 import mediapipe as mp
