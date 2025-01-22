@@ -1,4 +1,4 @@
-## P6-Full-Body-Detection-with-OpenCV-and-MediaPipe
+## Full-Body-Detection-with-OpenCV-and-MediaPipe
 
 Ever thought about creating body pose-based apps or designing a system to control your screen using only gestures? Look no further—MediaPipe and Python make it possible!
 In this project, I explore the fundamentals of body pose detection, facial landmark estimation, and hand pose tracking using MediaPipe, a versatile library that simplifies these tasks. With just a webcam and a few lines of code, you can dive into the world of gesture-based interaction.
