@@ -25,5 +25,3 @@ The core of this system is MediaPipe Holistic, a cutting-edge model that leverag
 ## ✨ Let’s Collaborate!
 - I’m always looking to improve my projects and learn from others in the community. 😊
 Do you have suggestions for enhancing this system? Or maybe an exciting use case idea? Share your thoughts in the comments below—I’d love to hear them and explore more possibilities together!
-
-[![P6: Full Body Detection with OpenCV and MediaPipe](https://img.youtube.com/vi/o9qmKrMuDEM/0.jpg)](https://youtu.be/o9qmKrMuDEM)
